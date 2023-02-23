@@ -2,12 +2,13 @@
 
 LICENSE: [MIT](./license.md)
 
-![](./assets/Git-logo.svg.png)
+![](./assets/Git-logo.png)
 
 ---
 
 ### Содержание:
-1. Что-то
+1. [Что такое GIT](./assets/about_git.md)
+2. [Популярные хостинги](./assets/hostings.md)
 2. [git add](./assets/add.md)
 
 
