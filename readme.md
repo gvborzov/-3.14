@@ -9,7 +9,8 @@ LICENSE: [MIT](./license.md)
 ### Содержание:
 1. [Что такое GIT](./assets/about_git.md)
 2. [Популярные хостинги](./assets/hostings.md)
-2. [git add](./assets/add.md)
+3. [Установка GIT](./assets/git_setup.md)
+4. [Основные команды](./assets/commands.md)
 
 
 ---
