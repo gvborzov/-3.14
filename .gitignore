@@ -1,8 +1,13 @@
 # Editor directories and files
+# IDE
 .idea
 .vscode
+
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+#Генерируемые от Windows
+Thumbs.db
