@@ -12,6 +12,7 @@ LICENSE: [MIT](./license.md)
 3. [Установка GIT](./assets/git_setup.md)
 4. [Основные команды](./assets/commands.md)
 5. [Файл .gitignore](./assets/Ignore.md)
+6. [Ветвление в GIT](./assets/Branches.md)
 
 
 ---
