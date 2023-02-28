@@ -14,7 +14,7 @@ LICENSE: [MIT](./license.md)
 5. [Файл .gitignore](./assets/Ignore.md)
 6. [Ветвление в GIT](./assets/Branches.md)
 7. [fork](./assets/fork.md)
-
+8. [Заключение](./assets/Completion.md)
 
 ---
 
