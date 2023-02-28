@@ -13,6 +13,7 @@ LICENSE: [MIT](./license.md)
 4. [Основные команды](./assets/commands.md)
 5. [Файл .gitignore](./assets/Ignore.md)
 6. [Ветвление в GIT](./assets/Branches.md)
+7. [fork](./assets/fork.md)
 
 
 ---
